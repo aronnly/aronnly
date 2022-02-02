@@ -5,7 +5,7 @@
 </p>
 
 # Aron Nelly
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*ERJ-145 commander* at Brazilian Air Force</sub>
 
 With over ten years of experience in the military area, I have always been linked both to the management of operational issues and practical operation as well. Currently, I am a ERJ-145 aircraft commander, Aircraft Safety Officer and a student of Data Sciences and Python, in my spare time, always looking for data-based advisory and decision-making tools with a focus on objective problem solving.
 
