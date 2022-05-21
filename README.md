@@ -17,7 +17,7 @@ With over ten years of experience in the military area, I have always been linke
 
 
 ## Projetos:
-
+Dados do Airbnb de Paris - https://github.com/aronnly/Dados_do_Airbnb/blob/main/Analisando_os_Dados_do_Airbnb_Paris.ipynb
 
 ---
 
